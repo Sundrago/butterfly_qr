@@ -1,4 +1,4 @@
-const updateInterval = 600; // Update Interval in seconds
+const updateInterval = 60; // Update Interval in seconds
 var updatedTime = new Date();; // Time got updated
 var updateTime = new Date();; // Time to get update
 
